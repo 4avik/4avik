@@ -37,12 +37,12 @@ alt="Kitty" width="100" height="100" border="10" /></a>
   <details>
   <summary><h3>📊 Stats</h3></summary>
 
-  <p><img align="right" width="440" src="https://github-readme-stats.vercel.app/api/top-langs?username=4avik&show_icons=true&theme=merko&title_color=8611a6&text_color=2ebca6&bg_color=1a191a&locale=en&layout=compact" alt="Most used languages" /></p>
+  <p><img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=4avik&show_icons=true&theme=merko&title_color=8611a6&text_color=2ebca6&bg_color=1a191a&locale=en&layout=compact" alt="Most used languages" /></p>
 
 
-  <p>&nbsp;<img align="left"  width="440" src="https://github-readme-stats.vercel.app/api?username=4avik&show_icons=true&theme=merko&title_color=116da6&text_color=2ebca6&bg_color=1a191a&locale=en" alt="Github stats" /></p>
+  <p>&nbsp;<img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=4avik&show_icons=true&theme=merko&title_color=116da6&text_color=2ebca6&bg_color=1a191a&locale=en" alt="Github stats" /></p>
 
-  <p align="left"><img align="center"  width="440" src="https://streak-stats.demolab.com/?user=4avik&theme=gruvbox&border_radius=4.5" alt="Current streak" /></p>
+  <p align="left"><img align="center" width="420" src="https://streak-stats.demolab.com/?user=4avik&theme=gruvbox&border_radius=4.5" alt="Current streak" /></p>
   
 <a href="https://media.istockphoto.com/id/1018078858/photo/gorgeous-ginger-cat-on-isolated-black-background.jpg?s=612x612&w=0&k=20&c=47yGoaN8LMsLCMKhScisycwaGnZdKTNvdTq61mHTLBo=" target="_blank"><img align="right" src="https://www.killarneycat.com/wp-content/uploads/sites/257/2022/04/17-1.png" 
 alt="Kitty" width="100" height="100" border="10" /></a>
