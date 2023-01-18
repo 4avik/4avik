@@ -3,7 +3,7 @@ alt="Kitty" width="100" height="100" border="10" /></a>
 
 <p>
       <a href="https://github.com/4avik?tab=repositories&sort=stargazers">
-       <img align="left" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/4avik?color=214074&style=for-the-badge&labelColor=0f2851&logo=star"/></a>
+       <img align="left" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/4avik?color=263f4e&style=for-the-badge&labelColor=0f2a3b&logo=star&logoColor=ffe599"/></a>
 </p>
  
 <h1 align="center">Hello 👋, I'm 4avik</h1>
@@ -12,10 +12,9 @@ alt="Kitty" width="100" height="100" border="10" /></a>
 
 
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4avik" alt="4avik" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4avik&theme=onedark&no-bg=true&no-frame=true&margin-w=2" alt="4avik" /></a> </p>
 
 
- 
  
 <p align="center">
    Did you pay me a visit?<br>
